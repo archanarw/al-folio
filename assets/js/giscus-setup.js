@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "archanarw/al-folio",
+    "data-repo": "archanarw/archanarw.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
