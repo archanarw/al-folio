@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-08-05 
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Started as Research Trainee at Basis, New York, contributing to Project MARA (Modeling, Abstraction, and Reasoning Agents).
