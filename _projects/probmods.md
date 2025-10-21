@@ -28,6 +28,9 @@ The translated textbook materials are available in multiple formats for each cha
 ### Chapter 4: Conditional Dependence
 [Interactive Pluto Notebook](https://pluto.land/n/fxx9tgtg) | [conditional-dependence.pdf]({{ '/assets/probmods/conditional-dependence.pdf' | relative_url }}) | [conditional-dependence.html]({{ '/assets/probmods/conditional-dependence.html' | relative_url }})
 
+### Chapter 5: Social Cognition
+[Interactive Pluto Notebook](https://pluto.land/n/vkvcr31v) | [social-cognition.pdf]({{ '/assets/probmods/social-cognition.pdf' | relative_url }}) | [social-cognition.html]({{ '/assets/probmods/social-cognition.html' | relative_url }})
+
 ### Interlude: Bayesian Data Analysis
  [Interactive Pluto Notebook](https://pluto.land/n/mitl6fmn) | [interlude-bayesian-data-analysis.pdf]({{ '/assets/probmods/interlude-bayesian-data-analysis.pdf' | relative_url }}) | [interlude-bayesian-data-analysis.html]({{ '/assets/probmods/interlude-bayesian-data-analysis.html' | relative_url }})
 

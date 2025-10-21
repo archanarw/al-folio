@@ -14,3 +14,4 @@ Developed [CounterfactualFairness.jl](https://github.com/zenna/CounterfactualFai
 - Handling both discrete and continuous variables
 - Implementing counterfactual inference algorithms
 
+A blogpost detailing the implementation can be found [here](https://nextjournal.com/archanarw/counterfactualfairnessjl/).
