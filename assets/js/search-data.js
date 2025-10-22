@@ -97,11 +97,11 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/archanarw", "_blank");
         },
       },{
-        id: 'social-medium',
-        title: 'Medium',
+        id: 'social-x',
+        title: 'X',
         section: 'Socials',
         handler: () => {
-          window.open("https://medium.com/@archanarw", "_blank");
+          window.open("https://twitter.com/archana_rw", "_blank");
         },
       },{
       id: 'light-theme',
