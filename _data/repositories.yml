@@ -8,5 +8,5 @@ github_repos:
   - zenna/Omega.jl
   - archanarw/NormalizingFlows.jl
   - BasisResearch/MARAProtocol
-  - BasisResearch/MARA
+  - zenna/Jaxy.jl/tree/arw-main
   - BasisResearch/Autumn.cpp

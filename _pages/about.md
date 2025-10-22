@@ -17,6 +17,8 @@ announcements:
 
 ---
 
+{% include figure.liquid path="assets/img/archana.jpg" alt="Archana Warrier" class="img-fluid rounded z-depth-1 float-right ml-3 mb-2" width="220" %}
+
 I'm interested in understanding intelligence---both how humans think and how thinking can be modeled computationally. Rather than copying cognition directly, I want to discover the fundamental principles that underlie intelligent behavior.
 
 
