@@ -28,7 +28,6 @@
       year: 2021
       description:
         - GPA: 9.4/10
-        - Data Science Fundamentals, Machine Learning, Statistics
 
 - title: Experience
   type: time_table
@@ -38,7 +37,6 @@
       year: 2024 - Present
       description:
         - Contributing to Project MARA (Modeling, Abstraction, and Reasoning Agents)
-        - Contributing to MARA, MARAProtocol and Autumn.cpp github repositories for evaluating world-model building in interactive agents
     - title: Research Assistant
       institution: DFKI, Kaiserslautern, Germany
       year: 2022 - 2024
@@ -100,13 +98,11 @@
   contents:
     - title: "Benchmarking World-Model Learning"
       year: 2025
-      description: Under review at ICLR 2026. Developed the WorldTest framework and designed the AutumnBench benchmark for evaluating world model building in interactive agents
     - title: "Had Enough of Experts? Elicitation and Evaluation of Bayesian Priors from LLMs"
       year: 2024
-      description: NeurIPS 2024 Workshop. Co-authored work on eliciting and evaluating Bayesian priors from Large Language Models
-
+      
 - title: Technical Skills
   type: list
   contents:
-    - <u>Programming Languages:</u> Julia, Python, MATLAB, C, Haskell
-    - <u>Research Tools:</u> Git, LaTeX, MuJoCo
+    - <u>Programming Languages:</u> Julia, Python, C, Haskell
+    - <u>Tools:</u> Git, LaTeX

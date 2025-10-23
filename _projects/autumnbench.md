@@ -9,5 +9,5 @@ related_publications: [warrier2025benchmarking]
 
 Created a representation-agnostic benchmark for evaluating world-model learning in AI agents, featuring 43 interactive grid-world environments with 129 tasks across masked-frame prediction, planning, and change detection. Evaluated 517 humans and frontier reasoning models, revealing substantial gaps in AI's world-modeling capabilities {% cite warrier2025benchmarking %}.
 
-PS: The games are fun to play—try them at https://autumn.basis.ai!
+PS: The games are fun to play --- try them at [autumn.basis.ai](https://autumn.basis.ai)!
 

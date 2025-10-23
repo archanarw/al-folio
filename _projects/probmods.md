@@ -10,11 +10,11 @@ category: work
 This project involves understanding and translating the ProbMods textbook ([probmods.org](probmods.org)) using the programming language [Omega](https://github.com/zenna/Omega.jl). The work includes:
 
 - Understanding the core concepts of ProbMods
-- Deep dive into the Omega probabilistic programming language
+- Deep dive into Omega.jl, a probabilistic programming language
 - Making necessary fixes to Omega to ensure textbook examples work correctly
 - Creating comprehensive notebooks with working examples
 
-The translated textbook materials are available in multiple formats for each chapter:
+The translated textbook materials for each chapter are given below:
 
 ### Chapter 1: Generative Models
 [Interactive Interactive Pluto Notebook](https://pluto.land/n/zlwvqg1g) | [generative-models.pdf]({{ '/assets/probmods/generative-models.pdf' | relative_url }}) | [generative-models.html]({{ '/assets/probmods/generative-models.html' | relative_url }})
