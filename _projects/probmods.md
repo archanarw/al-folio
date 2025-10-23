@@ -40,8 +40,17 @@ The translated textbook materials for each chapter are given below:
 ### Chapter 6: Rational Process Models
  [Interactive Pluto Notebook](https://pluto.land/n/8pyyk1gz) | [rational-process-models.pdf]({{ '/assets/probmods/rational-process-models.pdf' | relative_url }}) | [rational-process-models.html]({{ '/assets/probmods/rational-process-models.html' | relative_url }})
 
+### Chapter 7: Learning as Conditional Inference
+ [Interactive Pluto Notebook](https://pluto.land/n/gj44st4w) | [learning-as-conditional-inference.pdf]({{ '/assets/probmods/learning-as-conditional-inference.pdf' | relative_url }}) | [learning-as-conditional-inference.html]({{ '/assets/probmods/learning-as-conditional-inference.html' | relative_url }})
+
 ### Chapter 8: Learning with a Language of Thought
  [Interactive Pluto Notebook](https://pluto.land/n/gj44st4w) | [learning-with-a-language-of-thought.pdf]({{ '/assets/probmods/learning-with-a-language-of-thought.pdf' | relative_url }}) | [learning-with-a-language-of-thought.html]({{ '/assets/probmods/learning-with-a-language-of-thought.html' | relative_url }})
+
+### Chapter 9: Occam's Razor
+ [Interactive Pluto Notebook](https://pluto.land/n/gj44st4w) | [occams-razor.pdf]({{ '/assets/probmods/occams-razor.pdf' | relative_url }}) | [occams-razor.html]({{ '/assets/probmods/occams-razor.html' | relative_url }})
+
+### Chapter 10: Hierarchical Models
+ [Interactive Pluto Notebook](https://pluto.land/n/gj44st4w) | [hierarchical-models.pdf]({{ '/assets/probmods/hierarchical-models.pdf' | relative_url }}) | [hierarchical-models.html]({{ '/assets/probmods/hierarchical-models.html' | relative_url }})
 
 ### Chapter 11: Mixture Models
  [Interactive Pluto Notebook](http://pluto.land/n/gb8pphc2) | [mixture-models.pdf]({{ '/assets/probmods/mixture-models.pdf' | relative_url }}) | [mixture-models.html]({{ '/assets/probmods/mixture-models.html' | relative_url }})
