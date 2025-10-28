@@ -50,7 +50,7 @@ The translated textbook materials for each chapter are given below:
  [Interactive Pluto Notebook](https://pluto.land/n/rrumvpv3) | [hierarchical-models.pdf]({{ '/assets/probmods/hierarchical-models.pdf' | relative_url }}) | [hierarchical-models.html]({{ '/assets/probmods/hierarchical-models.html' | relative_url }})
 
 ### Chapter 10: Occam's Razor
- [Interactive Pluto Notebook](https://pluto.land/n/gj44st4w) | [occams-razor.pdf]({{ '/assets/probmods/occams-razor.pdf' | relative_url }}) | [occams-razor.html]({{ '/assets/probmods/occams-razor.html' | relative_url }})
+ [Interactive Pluto Notebook](https://pluto.land/n/y4bs98ml) | [occams-razor.pdf]({{ '/assets/probmods/occams-razor.pdf' | relative_url }}) | [occams-razor.html]({{ '/assets/probmods/occams-razor.html' | relative_url }})
 
 ### Chapter 11: Mixture Models
  [Interactive Pluto Notebook](http://pluto.land/n/gb8pphc2) | [mixture-models.pdf]({{ '/assets/probmods/mixture-models.pdf' | relative_url }}) | [mixture-models.html]({{ '/assets/probmods/mixture-models.html' | relative_url }})
